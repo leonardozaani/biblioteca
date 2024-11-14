@@ -1,3 +1,7 @@
+# Para iniciar o frontend é necessário abrir o terminal na pasta frontend e iniciar o projeto com "npm i"
+
+# Para iniciar o backend "node server.js"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
